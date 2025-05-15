@@ -1,0 +1,126 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  background-color: black;
+  color: aqua;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  border: 1px solid aqua;
+}
+
+main {
+  padding: 35px 20px;
+}
+
+nav {
+  display: flex;
+  gap:2rem;
+}
+
+.anime {
+  font-size: 50px;
+}
+
+.input-div {
+  border: 1px solid aqua;
+  border-radius: 25px;
+  padding: 0px 8px;
+}
+
+input {
+  width: 750px;
+  padding: 25px;
+  border-radius: 15px;
+  border: transparent;
+  color: aqua;
+  background-color: transparent;
+}
+
+.first-row {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.onepiece {
+  display: inline-block;
+  text-align: center;
+  width: 480px;
+  padding: 25px;
+  border-radius: 25px;
+  border: 1px solid aqua;
+  font-family: "Lexend", sans-serif;
+  
+}
+
+p{
+  padding-bottom: 2rem;
+}
+
+img {
+  height: 400px;
+  width: 400px;
+  border-radius: 15px;
+}
+
+.font {
+  padding: 2rem;
+}
+
+.haikyuu {
+  display: inline-block;
+  text-align: center;
+  width: 480px;
+  padding: 25px;
+  border-radius: 25px;
+  border: 1px solid aqua;
+  font-family: "Lexend", sans-serif;
+}
+
+.naruto {
+  display: inline-block;
+  text-align: center;
+  width: 480px;
+  padding: 25px;
+  border-radius: 25px;
+  border: 1px solid aqua;
+  font-family: "Lexend", sans-serif;
+}
+
+.demonslayer {
+  display: inline-block;
+  text-align: center;
+  width: 480px;
+  padding: 25px;
+  border-radius: 25px;
+  border: 1px solid aqua;
+  font-family: "Lexend", sans-serif;
+}
+
+.second-row{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.blackclover{
+  display: inline-block;
+  text-align: center;
+  padding: 10px;
+  border-radius: 25px;
+  border: 1px solid aqua;
+  font-family: "Lexend", sans-serif;
+}
+
+.bayblade{
+  display: inline-block;
+  text-align: center;
+  padding: 10px;
+  border-radius: 25px;
+  border: 1px solid aqua;
+  font-family: "Lexend", sans-serif;
+}
